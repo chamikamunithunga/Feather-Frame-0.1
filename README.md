@@ -1,1 +1,3 @@
 The Bird Information App is a platform where users can search and view detailed information about various bird species. Built with Node.js, Express, and Firebase Firestore, the backend serves bird data via a custom API. The React frontend allows users to enter a bird's name, fetch its details like scientific name, habitat, diet, wingspan, and conservation status, and display them dynamically. This project integrates Firebase for data storage, offering an easy-to-use interface for bird enthusiasts and researchers. It can be expanded with additional features like image recognition and user-driven content.
+
+2025/03/05
